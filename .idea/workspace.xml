@@ -15,7 +15,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bdBC3HTbtARKpebXe0PXD6VJGV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,6 +27,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -30,7 +35,7 @@
   <component name="RunManager">
     <configuration name="DepositMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="view.DepositMain" />
-      <module name="HW14_Question1" />
+      <module name="design-pattern-builder" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -55,6 +60,7 @@
       <workItem from="1591884614425" duration="616000" />
       <workItem from="1592197950236" duration="96000" />
       <workItem from="1592669407177" duration="7246000" />
+      <workItem from="1601278325672" duration="371000" />
     </task>
     <servers />
   </component>
